@@ -12,4 +12,4 @@ A modern HTTP client library for C
 * Streaming upload and download support
 * Compression support
 
-Optimized for both performance and easy of use.
+Optimized for both performance and ease of use.
