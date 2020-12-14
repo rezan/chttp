@@ -11,3 +11,5 @@ A modern HTTP client library for C
 * Timeout support
 * Streaming upload and download support
 * Compression support
+
+Optimized for both performance and easy of use.
